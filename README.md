@@ -1,3 +1,3 @@
-alex sheng of princeton high school
+Alex Sheng of Princeton High School
 
-intrepidbird.me
+https://intrepidbird.me
