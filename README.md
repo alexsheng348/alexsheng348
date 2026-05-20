@@ -1,4 +1,4 @@
-Alex Sheng of Princeton High School
+# Alex Sheng of Princeton High School
 
 I help with the PHS Math Team, hackPHS, and The Tower websites
 
