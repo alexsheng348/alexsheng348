@@ -6,8 +6,11 @@ If you're looking at my GitHub like prolly the most important thing I can tell y
 
 IntrepidAlex: https://intrepidbird.me 
 
+Alex Sheng: https://alexsheng348.github.io
+
 PHS Math Team: https://phsmt.org
 
 hackPHS: https://hackphs.tech
 
 The Tower: https://towerphs.com
+
