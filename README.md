@@ -14,3 +14,6 @@ hackPHS: https://hackphs.tech
 
 The Tower: https://towerphs.com
 
+PHS Philosophy Club: https://princetonhsphilosophy.github.io
+
+Devpost: https://devpost.com/alexsheng348
